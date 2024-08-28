@@ -16,3 +16,7 @@ Repo para las clases de Javascript
 # Para la Clase 2
 - Instalar la libreria prompt-sync con el comando:
     npm install -s prompt-sync
+- Dentro de la carpeta proyecto-node instala con:
+    npm init
+- Tambien instala express:
+    npm install express

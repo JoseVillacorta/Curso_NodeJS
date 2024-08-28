@@ -1,0 +1,18 @@
+{
+  "name": "proyecto-node",
+  "version": "1.0.0",
+  "description": "mi primer proyecto en node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "proyecto"
+  ],
+  "author": "@JoseVillacorta",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
