@@ -9,8 +9,8 @@ Repo para las clases de Javascript
 
 # Subir cambio de forma rapida
 - Ejecutar el script bash
-''' # chmod a+x subir-git.sh
-''' # ./subir-git.sh
+- ''' # chmod a+x subir-git.sh
+- ''' # ./subir-git.sh
 
 # Instalaciones
 # Para la Clase 2
