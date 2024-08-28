@@ -38,3 +38,5 @@ for(propiedad in persona){
 
 let p1 = new Persona("Piero", "Verastegui", "Guadalupe", "15/08/2001");
 console.log(p1);
+
+//SEMANA 1 TERMINADO

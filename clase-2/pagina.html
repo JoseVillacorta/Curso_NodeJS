@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Mi segunda clase - Eventos</title>
+        <style type="text/css">
+            div{
+                background-color: blue;
+                width: 100px;
+                height: 100px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1> Clase 2 - Eventos</h1>
+        
+        <button name="boton" onclick="hiceClick()" >Haz click</button>
+        <div onmouseover="hiceClick()">
+
+        </div>
+        <input type="text" name="nombre" id="idNombre" />
+        <script type="text/javascript">
+            function hiceClick() {
+                alert("Hice click");
+            } 
+            
+            var objeto = document.getElementById("idNombre");
+            console.log(objeto);
+                        
+            objeto.addEventListener("focus", function(){
+                console.log("hice focus");                
+            })
+            objeto.addEventListener("blur", hiceClick)
+        </script>
+    </body>
+</html>
