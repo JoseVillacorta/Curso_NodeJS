@@ -20,3 +20,9 @@ Repo para las clases de Javascript
     npm init
 - Tambien instala express:
     npm install express
+
+# Para la Clase 3
+- Instalar json server:
+    npm install -g json-server
+- Instalar typescript:
+    npm install -g typescript
