@@ -26,3 +26,7 @@ Repo para las clases de Javascript
     npm install -g json-server
 - Instalar typescript:
     npm install -g typescript
+
+-- Para la Clase 4
+- Instalar nestjs:
+    npm install -g @nestjs/cli
